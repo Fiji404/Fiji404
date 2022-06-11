@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Fiji404
 - 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning in SASS and JS
+- 🌱 I’m currently learning JavaScript
 - 📫 If you want write me, here you go radek42310o@gmail.com
