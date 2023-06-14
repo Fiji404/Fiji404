@@ -2,7 +2,7 @@
 
 ## ⚡🙋‍♂️ About Me
 
-- 🔧 I’m currently working on website about me.
+- 🔧 I’m currently working on site about guessing flags.
 - 💡 I’m curious about Blockchain and Crypto Currency.
 - 📖 I’m currently learning React.js.
 - ❄️ I’m looking to collaborate on Open Source Projects.
